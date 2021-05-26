@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "RocketLake",
+  "name": "RocketLake_8C",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 1,
+  "source": "https://www.flickr.com/photos/130561288@N04/51198685729",
+  "createTime": "May 26, 2021 1:06:10 PM",
+  "width": 21036,
+  "height": 10177,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 42,
+      "yMax": 20
+    },
+    {
+      "level": 1,
+      "xMax": 21,
+      "yMax": 10
+    },
+    {
+      "level": 2,
+      "xMax": 11,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 6,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 23.985,
+  "heightMillimeter": 11.62
+}
