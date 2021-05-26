@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "RocketLake",
+  "name": "RocketLake_Core",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 2,
+  "source": "https://www.flickr.com/photos/153549221@N02/51200255584",
+  "createTime": "May 26, 2021 1:30:05 PM",
+  "width": 10917,
+  "height": 6978,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 22,
+      "yMax": 14
+    },
+    {
+      "level": 1,
+      "xMax": 11,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
