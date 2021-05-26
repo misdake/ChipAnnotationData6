@@ -1,8 +1,8 @@
 {
   "vendor": "Intel",
   "type": "CPU",
-  "family": "RocketLake",
-  "name": "RocketLake_8C",
+  "family": "Rocketlake",
+  "name": "Rocketlake_8C",
   "githubRepo": "misdake/ChipAnnotationData6",
   "githubIssueId": 1,
   "source": "https://www.flickr.com/photos/130561288@N04/51198685729",
