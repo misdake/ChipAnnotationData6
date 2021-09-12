@@ -14,5 +14,13 @@
     "name": "Rocketlake_Core",
     "listname": "Rocketlake_Core",
     "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_Core"
+  },
+  {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "PS5",
+    "listname": "PS5",
+    "url": "https://misdake.github.io/ChipAnnotationData6/PS5"
   }
 ]

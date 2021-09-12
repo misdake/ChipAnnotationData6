@@ -1,0 +1,48 @@
+{
+  "vendor": "Sony",
+  "type": "",
+  "family": "",
+  "name": "PS5",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 3,
+  "source": "https://www.flickr.com/photos/130561288@N04/51406854738",
+  "createTime": "Sep 12, 2021 9:13:14 AM",
+  "width": 20268,
+  "height": 11309,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 40,
+      "yMax": 23
+    },
+    {
+      "level": 1,
+      "xMax": 20,
+      "yMax": 12
+    },
+    {
+      "level": 2,
+      "xMax": 10,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 5,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 23.141,
+  "heightMillimeter": 12.895
+}
