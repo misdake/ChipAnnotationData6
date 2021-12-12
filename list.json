@@ -1,5 +1,13 @@
 [
   {
+    "vendor": "AMD",
+    "type": "GPU",
+    "family": "RDNA2",
+    "name": "Navi22_IR",
+    "listname": "Navi22(IR)",
+    "url": "https://misdake.github.io/ChipAnnotationData/Navi22_IR"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Rocketlake",
