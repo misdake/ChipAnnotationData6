@@ -1,5 +1,5 @@
 {
-  "vendor": "AMD",
+  "vendor": "ATI/AMD",
   "type": "GPU",
   "family": "RDNA2",
   "name": "Navi22_IR",

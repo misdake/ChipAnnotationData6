@@ -16,7 +16,15 @@
     "url": "https://misdake.github.io/ChipAnnotationData6/Cezanne_IR"
   },
   {
-    "vendor": "AMD",
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi14_2",
+    "listname": "Navi14",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Navi14"
+  },
+  {
+    "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA2",
     "name": "Navi22_IR",
@@ -38,6 +46,22 @@
     "name": "Rocketlake_Core",
     "listname": "Rocketlake_Core",
     "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_Core"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "Xbox360",
+    "name": "Xenos_80nm",
+    "listname": "Xenos_80nm",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Xenos_80nm"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "Xbox360",
+    "name": "Xenos_90nm",
+    "listname": "Xenos_90nm",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Xenos_90nm"
   },
   {
     "vendor": "Sony",

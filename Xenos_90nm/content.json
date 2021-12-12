@@ -1,0 +1,38 @@
+{
+  "vendor": "Microsoft",
+  "type": "",
+  "family": "Xbox360",
+  "name": "Xenos_90nm",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 9,
+  "source": "https://www.flickr.com/photos/98762402@N06/46731098654",
+  "createTime": "Dec 12, 2021 10:48:52 AM",
+  "width": 3692,
+  "height": 3572,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
