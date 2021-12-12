@@ -1,0 +1,43 @@
+{
+  "vendor": "3dfx",
+  "type": "GPU",
+  "family": "Voodoo3",
+  "name": "Voodoo3_2000",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 6,
+  "source": "https://www.flickr.com/photos/130561288@N04/51701705780",
+  "createTime": "Dec 12, 2021 10:32:44 AM",
+  "width": 7491,
+  "height": 7519,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 15,
+      "yMax": 15
+    },
+    {
+      "level": 1,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 8.57,
+  "heightMillimeter": 8.6
+}
