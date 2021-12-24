@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Pascal",
+  "name": "GP100",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 10,
+  "source": "https://www.flickr.com/photos/130561288@N04/51772639664/",
+  "createTime": "Dec 24, 2021 1:54:51 PM",
+  "width": 7055,
+  "height": 8613,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 14,
+      "yMax": 17
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 9
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 22.499,
+  "heightMillimeter": 27.471
+}
