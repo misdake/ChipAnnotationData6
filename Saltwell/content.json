@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "Atom",
+  "name": "Saltwell",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 13,
+  "source": "https://www.flickr.com/photos/187597251@N05/50950065398",
+  "createTime": "Jan 28, 2022 3:00:24 PM",
+  "width": 12500,
+  "height": 10534,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 25,
+      "yMax": 21
+    },
+    {
+      "level": 1,
+      "xMax": 13,
+      "yMax": 11
+    },
+    {
+      "level": 2,
+      "xMax": 7,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.47,
+  "heightMillimeter": 8.84
+}

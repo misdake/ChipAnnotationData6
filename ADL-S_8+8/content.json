@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "AlderLake",
+  "name": "ADL-S_8+8",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 12,
+  "source": "https://en.wikichip.org/wiki/File:alder_lake_die_2.png",
+  "createTime": "Jan 28, 2022 2:55:49 PM",
+  "width": 6950,
+  "height": 3514,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 14,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.5,
+  "heightMillimeter": 20.5
+}

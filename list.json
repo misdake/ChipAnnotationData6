@@ -18,6 +18,14 @@
   {
     "vendor": "ATI/AMD",
     "type": "GPU",
+    "family": "GFX2",
+    "name": "R300",
+    "listname": "R300",
+    "url": "https://misdake.github.io/ChipAnnotationData6/R300"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
     "family": "RDNA",
     "name": "Navi14_2",
     "listname": "Navi14",
@@ -34,6 +42,22 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "AlderLake",
+    "name": "ADL-S_8+8",
+    "listname": "ADL-S 8+8",
+    "url": "https://misdake.github.io/ChipAnnotationData6/ADL-S_8+8"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Atom",
+    "name": "Saltwell",
+    "listname": "Saltwell",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Saltwell"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Rocketlake",
     "name": "Rocketlake_8C",
     "listname": "Rocketlake_8C",
@@ -46,6 +70,14 @@
     "name": "Rocketlake_Core",
     "listname": "Rocketlake_Core",
     "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "MIC",
+    "family": "",
+    "name": "Knights_Ferry",
+    "listname": "Knights_Ferry",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Knights_Ferry"
   },
   {
     "vendor": "Microsoft",
@@ -78,5 +110,13 @@
     "name": "GP100",
     "listname": "GP100",
     "url": "https://misdake.github.io/ChipAnnotationData6/GP100"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "SoC",
+    "family": "Tegra",
+    "name": "TegraX1",
+    "listname": "TegraX1",
+    "url": "https://misdake.github.io/ChipAnnotationData6/TegraX1"
   }
 ]

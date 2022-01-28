@@ -1,0 +1,33 @@
+{
+  "vendor": "Intel",
+  "type": "MIC",
+  "family": "",
+  "name": "Knights_Ferry",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 11,
+  "source": "https://web.archive.org/web/20120910021628/http://download.intel.com/pressroom/images/Aubrey_Isle_die.jpg",
+  "createTime": "Jan 28, 2022 2:53:14 PM",
+  "width": 1887,
+  "height": 1417,
+  "tileSize": 512,
+  "maxLevel": 2,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 1,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 2,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 30.18,
+  "heightMillimeter": 22.66
+}
