@@ -1,0 +1,38 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A8",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 19,
+  "source": "https://www.flickr.com/photos/98762402@N06/48550578062",
+  "createTime": "Jan 28, 2022 3:31:57 PM",
+  "width": 4075,
+  "height": 3286,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.50570085508254,
+  "heightMillimeter": 8.47159092265061
+}

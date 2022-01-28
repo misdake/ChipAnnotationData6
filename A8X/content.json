@@ -1,0 +1,38 @@
+{
+  "vendor": "Apple",
+  "type": "SoC",
+  "family": "",
+  "name": "A8X",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 20,
+  "source": "https://www.flickr.com/photos/98762402@N06/51157263581",
+  "createTime": "Jan 28, 2022 3:34:05 PM",
+  "width": 3490,
+  "height": 2787,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 7,
+      "yMax": 6
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 12.6,
+  "heightMillimeter": 10.1
+}

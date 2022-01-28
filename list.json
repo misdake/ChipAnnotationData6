@@ -10,6 +10,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "K10",
+    "name": "Agena",
+    "listname": "Agena",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Agena"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen3",
     "name": "Cezanne_IR",
     "listname": "Cezanne(IR)",
@@ -40,6 +48,22 @@
     "url": "https://misdake.github.io/ChipAnnotationData6/Navi22_IR"
   },
   {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A8",
+    "listname": "A8",
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A8X",
+    "listname": "A8X",
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8X"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "AlderLake",
@@ -58,6 +82,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "Haswell",
+    "name": "Haswell_4+2",
+    "listname": "Haswell 4+2",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Haswell_4+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Rocketlake",
     "name": "Rocketlake_8C",
     "listname": "Rocketlake_8C",
@@ -70,6 +102,14 @@
     "name": "Rocketlake_Core",
     "listname": "Rocketlake_Core",
     "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Westmere",
+    "name": "Clarkdale",
+    "listname": "Clarkdale",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Clarkdale"
   },
   {
     "vendor": "Intel",

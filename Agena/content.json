@@ -1,0 +1,38 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "K10",
+  "name": "Agena",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 16,
+  "source": "https://www.flickr.com/photos/130561288@N04/22250990024",
+  "createTime": "Jan 28, 2022 3:12:40 PM",
+  "width": 3880,
+  "height": 3674,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 16.506684,
+  "heightMillimeter": 15.6302982
+}
