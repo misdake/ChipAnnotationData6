@@ -91,9 +91,9 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "Haswell",
-    "name": "Haswell_4+2",
-    "listname": "Haswell 4+2",
-    "url": "https://misdake.github.io/ChipAnnotationData6/Haswell_4+2"
+    "name": "Haswell_2+2",
+    "listname": "Haswell 2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Haswell_2+2"
   },
   {
     "vendor": "Intel",
