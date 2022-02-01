@@ -68,7 +68,7 @@
     "type": "CPU",
     "family": "AlderLake",
     "name": "ADL-P_6+8",
-    "listname": "ADL-P_6+8",
+    "listname": "ADL-P 6+8",
     "url": "https://misdake.github.io/ChipAnnotationData6/ADL-P_6+8"
   },
   {
@@ -124,7 +124,7 @@
     "type": "MIC",
     "family": "",
     "name": "Knights_Ferry",
-    "listname": "Knights_Ferry",
+    "listname": "Knights Ferry",
     "url": "https://misdake.github.io/ChipAnnotationData6/Knights_Ferry"
   },
   {
@@ -132,7 +132,7 @@
     "type": "",
     "family": "Xbox360",
     "name": "Xenos_80nm",
-    "listname": "Xenos_80nm",
+    "listname": "Xenos 80nm",
     "url": "https://misdake.github.io/ChipAnnotationData6/Xenos_80nm"
   },
   {
@@ -140,7 +140,7 @@
     "type": "",
     "family": "Xbox360",
     "name": "Xenos_90nm",
-    "listname": "Xenos_90nm",
+    "listname": "Xenos 90nm",
     "url": "https://misdake.github.io/ChipAnnotationData6/Xenos_90nm"
   },
   {
@@ -164,7 +164,7 @@
     "type": "SoC",
     "family": "Tegra",
     "name": "TegraX1",
-    "listname": "TegraX1",
+    "listname": "Tegra X1",
     "url": "https://misdake.github.io/ChipAnnotationData6/TegraX1"
   }
 ]

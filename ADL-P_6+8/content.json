@@ -1,0 +1,38 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "AlderLake",
+  "name": "ADL-P_6+8",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 21,
+  "source": "https://www.reddit.com/r/intel/comments/se1xxx/today_ama_from_830am_to_300_pm_pst_12th_gen_intel/",
+  "createTime": "Feb 1, 2022 3:40:30 AM",
+  "width": 4000,
+  "height": 2067,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 5
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
