@@ -18,7 +18,7 @@
   {
     "vendor": "AMD",
     "type": "CPU",
-    "family": "Zen3",
+    "family": "Zen3+GCN5",
     "name": "Cezanne_IR",
     "listname": "Cezanne(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData6/Cezanne_IR"
@@ -129,7 +129,7 @@
   },
   {
     "vendor": "Microsoft",
-    "type": "",
+    "type": "Console",
     "family": "Xbox360",
     "name": "Xenos_80nm",
     "listname": "Xenos 80nm",
@@ -137,7 +137,7 @@
   },
   {
     "vendor": "Microsoft",
-    "type": "",
+    "type": "Console",
     "family": "Xbox360",
     "name": "Xenos_90nm",
     "listname": "Xenos 90nm",
@@ -145,8 +145,8 @@
   },
   {
     "vendor": "Sony",
-    "type": "",
-    "family": "",
+    "type": "Console",
+    "family": "PS5",
     "name": "PS5",
     "listname": "PS5",
     "url": "https://misdake.github.io/ChipAnnotationData6/PS5"
@@ -162,7 +162,7 @@
   {
     "vendor": "nVIDIA",
     "type": "SoC",
-    "family": "Tegra",
+    "family": "",
     "name": "TegraX1",
     "listname": "Tegra X1",
     "url": "https://misdake.github.io/ChipAnnotationData6/TegraX1"

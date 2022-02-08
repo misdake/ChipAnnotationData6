@@ -1,7 +1,7 @@
 {
   "vendor": "Sony",
-  "type": "",
-  "family": "",
+  "type": "Console",
+  "family": "PS5",
   "name": "PS5",
   "githubRepo": "misdake/ChipAnnotationData6",
   "githubIssueId": 3,

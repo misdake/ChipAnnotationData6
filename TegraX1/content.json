@@ -1,7 +1,7 @@
 {
   "vendor": "nVIDIA",
   "type": "SoC",
-  "family": "Tegra",
+  "family": "",
   "name": "TegraX1",
   "githubRepo": "misdake/ChipAnnotationData6",
   "githubIssueId": 14,

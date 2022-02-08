@@ -1,7 +1,7 @@
 {
   "vendor": "AMD",
   "type": "CPU",
-  "family": "Zen3",
+  "family": "Zen3+GCN5",
   "name": "Cezanne_IR",
   "githubRepo": "misdake/ChipAnnotationData6",
   "githubIssueId": 5,
