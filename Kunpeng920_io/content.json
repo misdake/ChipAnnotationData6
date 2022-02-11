@@ -1,0 +1,38 @@
+{
+  "vendor": "Huawei",
+  "type": "CPU",
+  "family": "Kunpeng",
+  "name": "Kunpeng920_io",
+  "githubRepo": "misdake/ChipAnnotationData6",
+  "githubIssueId": 24,
+  "source": "https://www.bilibili.com/video/BV1yL4y1s7bf",
+  "createTime": "Feb 11, 2022 2:55:26 PM",
+  "width": 3408,
+  "height": 2218,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 7,
+      "yMax": 5
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
