@@ -84,7 +84,7 @@
     "type": "CPU",
     "family": "AlderLake",
     "name": "ADL-P_6+8",
-    "listname": "ADL-P 6+8",
+    "listname": "ADL-P 6+8 (lowres)",
     "url": "https://misdake.github.io/ChipAnnotationData6/ADL-P_6+8"
   },
   {
@@ -92,7 +92,7 @@
     "type": "CPU",
     "family": "AlderLake",
     "name": "ADL-S_8+8",
-    "listname": "ADL-S 8+8",
+    "listname": "ADL-S 8+8 (lowres)",
     "url": "https://misdake.github.io/ChipAnnotationData6/ADL-S_8+8"
   },
   {
