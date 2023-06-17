@@ -2,7 +2,7 @@
   "vendor": "Intel",
   "type": "CPU",
   "family": "Atom",
-  "name": "Saltwell",
+  "name": "Saltwell(Cloverview)",
   "githubRepo": "misdake/ChipAnnotationData6",
   "githubIssueId": 13,
   "source": "https://www.flickr.com/photos/187597251@N05/50950065398",

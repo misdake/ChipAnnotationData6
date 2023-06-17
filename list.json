@@ -99,8 +99,8 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "Atom",
-    "name": "Saltwell",
-    "listname": "Saltwell",
+    "name": "Saltwell(Cloverview)",
+    "listname": "Saltwell(Cloverview)",
     "url": "https://misdake.github.io/ChipAnnotationData6/Saltwell"
   },
   {
