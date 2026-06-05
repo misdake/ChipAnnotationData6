@@ -19,7 +19,7 @@
     "type": "CPU",
     "family": "Zen3+GCN5",
     "name": "Cezanne_IR",
-    "listname": "Cezanne(IR)",
+    "listname": "Cezanne (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData6/Cezanne_IR"
   },
   {
@@ -42,7 +42,7 @@
     "type": "GPU",
     "family": "RDNA2",
     "name": "Navi22_IR",
-    "listname": "Navi22(IR)",
+    "listname": "Navi22 (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData6/Navi22_IR"
   },
   {
@@ -50,35 +50,39 @@
     "type": "SoC",
     "family": "",
     "name": "A8_HiRes",
-    "url": "https://misdake.github.io/ChipAnnotationData6/A8_HiRes"
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8_HiRes",
+    "listname": "A8 HiRes"
   },
   {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
     "name": "A8X_HiRes",
-    "url": "https://misdake.github.io/ChipAnnotationData6/A8X_HiRes"
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8X_HiRes",
+    "listname": "A8X HiRes"
   },
   {
     "vendor": "Huawei",
     "type": "CPU",
     "family": "Kunpeng",
     "name": "Kunpeng920_io",
-    "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_io"
+    "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_io",
+    "listname": "Kunpeng920 IO"
   },
   {
     "vendor": "Huawei",
     "type": "CPU",
     "family": "Kunpeng",
     "name": "Kunpeng920_core",
-    "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_core"
+    "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_core",
+    "listname": "Kunpeng920 Core"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "AlderLake",
     "name": "ADL-P_6+8",
-    "listname": "ADL-P 6+8 (lowres)",
+    "listname": "ADL-P 6+8 LowRes",
     "url": "https://misdake.github.io/ChipAnnotationData6/ADL-P_6+8"
   },
   {
@@ -86,7 +90,7 @@
     "type": "CPU",
     "family": "AlderLake",
     "name": "ADL-S_8+8",
-    "listname": "ADL-S 8+8 (lowres)",
+    "listname": "ADL-S 8+8 LowRes",
     "url": "https://misdake.github.io/ChipAnnotationData6/ADL-S_8+8"
   },
   {
@@ -94,7 +98,7 @@
     "type": "CPU",
     "family": "Atom",
     "name": "Saltwell",
-    "listname": "Saltwell(Cloverview)",
+    "listname": "Saltwell (Cloverview)",
     "url": "https://misdake.github.io/ChipAnnotationData6/Saltwell"
   },
   {
@@ -110,7 +114,8 @@
     "type": "CPU",
     "family": "Rocketlake",
     "name": "Rocketlake_8C",
-    "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_8C"
+    "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_8C",
+    "listname": "Rocketlake 8C"
   },
   {
     "vendor": "Intel",
