@@ -38,6 +38,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 10.5,
-  "heightMillimeter": 20.5
+  "widthMillimeter": 20.5,
+  "heightMillimeter": 10.5,
+  "imageAuthorName": "Intel",
+  "imageAuthorUrl": "https://www.intel.com/",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-i9-12900ks.c2598"
 }

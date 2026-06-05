@@ -43,6 +43,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 0,
+  "heightMillimeter": 0,
+  "imageAuthorName": "Ivan Musachev",
+  "imageAuthorUrl": "https://www.flickr.com/photos/153549221@N02/",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-i9-11900k.c2366"
 }

@@ -33,6 +33,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 20.4922,
+  "heightMillimeter": 10.5894,
+  "imageAuthorName": "Intel",
+  "imageAuthorUrl": "https://www.intel.com/",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-i9-12900hk.c2540"
 }

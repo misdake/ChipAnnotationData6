@@ -2,7 +2,7 @@
   "vendor": "Apple",
   "type": "SoC",
   "family": "",
-  "name": "A8",
+  "name": "A8_HiRes",
   "githubRepo": "misdake/ChipAnnotationData6",
   "githubIssueId": 19,
   "source": "https://www.flickr.com/photos/98762402@N06/48550578062",
@@ -34,5 +34,8 @@
     }
   ],
   "widthMillimeter": 10.50570085508254,
-  "heightMillimeter": 8.47159092265061
+  "heightMillimeter": 8.47159092265061,
+  "imageAuthorName": "Oleg Kashirin",
+  "imageAuthorUrl": "https://www.flickr.com/photos/98762402@N06/",
+  "specUrl": "https://en.wikipedia.org/wiki/Apple_A8"
 }

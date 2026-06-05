@@ -1,6 +1,6 @@
 {
   "vendor": "Microsoft",
-  "type": "",
+  "type": "Console",
   "family": "Xbox360",
   "name": "Xenos_90nm",
   "githubRepo": "misdake/ChipAnnotationData6",
@@ -33,6 +33,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 13.6777,
+  "heightMillimeter": 13.2332,
+  "imageAuthorName": "Oleg Kashirin",
+  "imageAuthorUrl": "https://www.flickr.com/photos/98762402@N06/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/ati-xenos-xenon.g424"
 }

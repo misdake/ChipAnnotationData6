@@ -1,6 +1,6 @@
 {
   "vendor": "Microsoft",
-  "type": "",
+  "type": "Console",
   "family": "Xbox360",
   "name": "Xenos_80nm",
   "githubRepo": "misdake/ChipAnnotationData6",
@@ -33,6 +33,9 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 0.0,
-  "heightMillimeter": 0.0
+  "widthMillimeter": 12.1922,
+  "heightMillimeter": 12.7951,
+  "imageAuthorName": "Oleg Kashirin",
+  "imageAuthorUrl": "https://www.flickr.com/photos/98762402@N06/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/xbox-360-gpu-80nm.c3507"
 }

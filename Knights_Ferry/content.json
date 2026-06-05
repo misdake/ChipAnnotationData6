@@ -29,5 +29,8 @@
     }
   ],
   "widthMillimeter": 30.18,
-  "heightMillimeter": 22.66
+  "heightMillimeter": 22.66,
+  "imageAuthorName": "Intel",
+  "imageAuthorUrl": "https://www.intel.com/",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/intel-knights-ferry.g238"
 }

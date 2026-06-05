@@ -12,7 +12,6 @@
     "type": "CPU",
     "family": "K10",
     "name": "Agena",
-    "listname": "Agena",
     "url": "https://misdake.github.io/ChipAnnotationData6/Agena"
   },
   {
@@ -28,7 +27,6 @@
     "type": "GPU",
     "family": "GFX2",
     "name": "R300",
-    "listname": "R300",
     "url": "https://misdake.github.io/ChipAnnotationData6/R300"
   },
   {
@@ -51,24 +49,21 @@
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
-    "name": "A8",
-    "listname": "A8",
-    "url": "https://misdake.github.io/ChipAnnotationData6/A8"
+    "name": "A8_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8_HiRes"
   },
   {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
-    "name": "A8X",
-    "listname": "A8X",
-    "url": "https://misdake.github.io/ChipAnnotationData6/A8X"
+    "name": "A8X_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData6/A8X_HiRes"
   },
   {
     "vendor": "Huawei",
     "type": "CPU",
     "family": "Kunpeng",
     "name": "Kunpeng920_io",
-    "listname": "Kunpeng920_io",
     "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_io"
   },
   {
@@ -76,7 +71,6 @@
     "type": "CPU",
     "family": "Kunpeng",
     "name": "Kunpeng920_core",
-    "listname": "Kunpeng920_core",
     "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_core"
   },
   {
@@ -116,7 +110,6 @@
     "type": "CPU",
     "family": "Rocketlake",
     "name": "Rocketlake_8C",
-    "listname": "Rocketlake_8C",
     "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_8C"
   },
   {
@@ -124,7 +117,6 @@
     "type": "CPU",
     "family": "Rocketlake",
     "name": "Rocketlake_Core",
-    "listname": "Rocketlake_Core",
     "url": "https://misdake.github.io/ChipAnnotationData6/Rocketlake_Core"
   },
   {
@@ -132,7 +124,6 @@
     "type": "CPU",
     "family": "Westmere",
     "name": "Clarkdale",
-    "listname": "Clarkdale",
     "url": "https://misdake.github.io/ChipAnnotationData6/Clarkdale"
   },
   {
@@ -164,7 +155,6 @@
     "type": "Console",
     "family": "PS5",
     "name": "PS5",
-    "listname": "PS5",
     "url": "https://misdake.github.io/ChipAnnotationData6/PS5"
   },
   {
@@ -172,7 +162,6 @@
     "type": "GPU",
     "family": "Pascal",
     "name": "GP100",
-    "listname": "GP100",
     "url": "https://misdake.github.io/ChipAnnotationData6/GP100"
   },
   {
