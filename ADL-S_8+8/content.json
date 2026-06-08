@@ -42,5 +42,6 @@
   "heightMillimeter": 10.5,
   "imageAuthorName": "Intel",
   "imageAuthorUrl": "https://www.intel.com/",
-  "specUrl": "https://www.techpowerup.com/cpu-specs/core-i9-12900ks.c2598"
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-i9-12900ks.c2598",
+  "listname": "ADL-S 8+8 LowRes"
 }

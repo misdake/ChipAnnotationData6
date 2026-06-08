@@ -32,5 +32,6 @@
   "heightMillimeter": 22.66,
   "imageAuthorName": "Intel",
   "imageAuthorUrl": "https://www.intel.com/",
-  "specUrl": "https://www.techpowerup.com/gpu-specs/intel-knights-ferry.g238"
+  "specUrl": "https://www.techpowerup.com/gpu-specs/intel-knights-ferry.g238",
+  "listname": "Knights Ferry"
 }
